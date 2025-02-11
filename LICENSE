@@ -1,0 +1,10 @@
+
+---
+
+## **4️⃣ `.gitignore` (Ignore Unwanted Files)**
+Prevents unnecessary files from being pushed to GitHub.
+
+```gitignore
+node_modules/
+.env
+.DS_Store
